@@ -36,6 +36,8 @@ body {
   word-spacing: 2px;
   text-shadow: 1px 1px yellow;
   margin-bottom: 45px;
+  margin-top: 0px;
+  padding-bottom: 10px;
 }
 .paratextcol {
   display: flex;
